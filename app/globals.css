@@ -147,7 +147,7 @@
       @apply flex flex-row items-center gap-2;
 
       p {
-        @apply text-xl font-bold italic max-sm:hidden;
+        @apply text-xl font-bold italic;
       }
     }
 
