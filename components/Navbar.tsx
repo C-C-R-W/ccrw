@@ -32,7 +32,10 @@ const HamburgerMenu = () => {
               className="w-full h-full object-cover rounded"
             />
           </div>
+<<<<<<< HEAD
           z
+=======
+>>>>>>> dab042f (Updated the layout and schedule page)
           <div className=" sm:block">
             <p className="text-white font-bold text-sm lg:text-base leading-tight">
               Catholic Church
