@@ -36,7 +36,9 @@ const HamburgerMenu = () => {
             <p className="text-white font-bold text-sm lg:text-base leading-tight">
               Catholic Church
             </p>
-            <p className="text-blue-100 text-xs lg:text-sm">Of Resurrection</p>
+            <p className="text-blue-100 font-bold text-xs lg:text-sm">
+              Of Resurrection
+            </p>
           </div>
         </Link>
 

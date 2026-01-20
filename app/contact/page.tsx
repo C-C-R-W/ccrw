@@ -266,37 +266,37 @@ const Page = () => {
             <div className="flex gap-4">
               <span className="text-3xl flex-shrink-0">🙏</span>
               <div>
-                <h4 className="font-bold text-gray-900 text-lg mb-1">
+                <h1 className="font-bold text-gray-900 text-lg mb-1">
                   Spiritual Guidance
-                </h4>
-                <h1 className="text-gray-900 text-sm sm:text-xl max-w-2xl ">
+                </h1>
+                <h4 className="text-gray-900 text-sm sm:text-xl max-w-2xl ">
                   Receive counselling and spiritual direction from our
                   experienced pastoral team.
-                </h1>
+                </h4>
               </div>
             </div>
             <div className="flex gap-4">
               <span className="text-3xl flex-shrink-0">💒</span>
               <div>
-                <h4 className="font-bold text-gray-900 text-lg mb-1">
+                <h1 className="font-bold text-gray-900 text-lg mb-1">
                   Event Bookings
-                </h4>
-                <h1 className="text-gray-900 text-sm sm:text-xl max-w-2xl ">
+                </h1>
+                <h4 className="text-gray-900 text-sm sm:text-xl max-w-2xl ">
                   Schedule Mass bookings, Baptisms, and other sacramental
                   celebrations.
-                </h1>
+                </h4>
               </div>
             </div>
             <div className="flex gap-4">
               <span className="text-3xl flex-shrink-0">👥</span>
               <div>
-                <h4 className="font-bold text-gray-900 text-lg mb-1">
+                <h1 className="font-bold text-gray-900 text-lg mb-1">
                   Community Support
-                </h4>
-                <h1 className="text-gray-900 text-sm sm:text-xl max-w-2xl">
+                </h1>
+                <h4 className="text-gray-900 text-sm sm:text-xl max-w-2xl">
                   Join our vibrant parish community and connect with fellow
                   believers.
-                </h1>
+                </h4>
               </div>
             </div>
           </div>

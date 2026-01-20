@@ -35,7 +35,7 @@ const Schedule = () => {
     },
     {
       title: "Devotion to St.Joseph",
-      icon: "/icons/St. Joseph Marello.jpg",
+      icon: "/icons/St. Joseph.jpeg",
       color: "bg-red-200",
       details: ["Every Wednesdays"],
       imageSize: { width: 50, height: 40 },
